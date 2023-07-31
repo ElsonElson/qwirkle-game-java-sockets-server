@@ -15,7 +15,6 @@ import java.util.Map;
 
 public class GameController {
 
-
     private List<Player> players;
     private final Qwirkle qwirkle;
     private StartTimer startTimer;

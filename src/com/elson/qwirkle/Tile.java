@@ -4,7 +4,6 @@ import java.io.Serializable;
 
 public class Tile implements Serializable {
     private static final long serialVersionUID = 2L;
-
     public int color, shape, placement, row, column;
 
     public Tile(int color, int shape) {

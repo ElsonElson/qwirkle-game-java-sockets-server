@@ -14,7 +14,6 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
 public class Player {
-
     public BlockingQueue<Package> outMessages = new LinkedBlockingQueue<>();
     public int playerNo, groupNo, score;
     public String name;

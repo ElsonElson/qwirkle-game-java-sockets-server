@@ -6,7 +6,6 @@ public class PlayerData implements Serializable {
 
     private static final long serialVersionUID = 12L;
 
-
     public String name;
     public int score;
 

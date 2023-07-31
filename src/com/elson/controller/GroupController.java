@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class GroupController {
-
     List<GameController> gameControllers; // groups controller
     int group; // number of groups
 

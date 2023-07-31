@@ -7,9 +7,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Qwirkle {
-
     private List<Tile> tiles; // all tiles
-
     private List<Tile> firstTwo; // first two tiles to be placed per turn
 
     public Qwirkle() {
